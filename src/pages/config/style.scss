@@ -1,0 +1,81 @@
+.config-ct{
+    background: #fff;
+    font-family: consolas,monospace,monospace;
+}
+.ant-skeleton{
+    float: left;
+    width: auto;
+}
+.config-nav{
+    width: 50%;
+    display: flex;
+    float: right;
+    font-weight: 600;
+    justify-content: space-around;
+    li{
+        a:hover{
+            color: #f46800!important;
+        }
+    }
+}
+.version-ct{
+    width: 75%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    border-bottom: 1px solid #1890ff;
+    .version-des{
+        float: left;
+        li{
+            padding: 20px;
+        }
+        li:nth-child(1){
+            font-size: 35px;
+        }
+    }
+    .builds-des{
+        float: right;
+        padding: 40px 0 0 0;
+    }
+}
+.plat-ct{
+    width: 75%;
+    margin: 0 auto;
+    .tab_o_icon,.tab_t_icon{
+        li{
+            font-size: 20px;
+            text-align: center;
+        }
+    }
+    .ant-tabs-bar{
+        border-bottom: none;
+    }
+    .tab-o-ct{
+        padding: 1rem 0;
+        overflow: auto;
+        .title{
+            float: left;
+            color: #1b76d1;
+            font-size: 1.2rem;
+        }
+        .des{
+            float: left;
+            color: #898989;
+            padding-left: 10px;
+        }
+        .href{
+            float: right;
+        }
+    }
+    .copy-ct{
+        width: 100%;
+        text-align: center;
+        font-family: consolas,monospace,monospace;
+        color: #FFF;
+        display: inline-block;
+        padding: 1rem;
+        background-color: #000000;
+    }
+    .ant-tabs-tab{
+    }
+}

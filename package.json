@@ -16,6 +16,7 @@
     "antd": "^3.4.0",
     "bizcharts": "^3.2.2",
     "classnames": "^2.2.5",
+    "copy-to-clipboard": "^3.0.8",
     "core-js": "^2.4.1",
     "echarts": "^4.0.4",
     "echarts-wordcloud": "^1.1.3",

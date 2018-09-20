@@ -36,6 +36,14 @@
         "permissionIcon": "",
         "permissionUrl": "/index",
         "children": [
+          { 
+            "id": 3,
+            "parentId": 1,
+            "permissionName": "Config",
+            "permissionIcon": "",
+            "permissionUrl": "/index/config",
+            "children": []
+          },
          {
           "id": 3,
           "parentId": 1,

@@ -24,6 +24,7 @@ const FormSearch=Loadable({loader:() => import('../pages/formSearch'),loading: L
 const Analysis=Loadable({loader:() => import('../pages/analysis'),loading: Loading});
 const Login=Loadable({loader:() => import('../pages/auth/login'),loading: Loading});
 const Register=Loadable({loader:() => import('../pages/auth/register'),loading: Loading});
+const Config=Loadable({loader:() => import('../pages/config'),loading: Loading});
 const routerConf = [
   {
     path:'/',
@@ -32,8 +33,12 @@ const routerConf = [
   {
     path: '/index',
     layout: MainLayout,
-    component: UserList,
     children: [
+      {
+        path: '/config',
+        layout: null,
+        component: Config
+      },
       {
         path: '/analysis',
         layout: MainLayout,
