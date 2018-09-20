@@ -125,7 +125,7 @@ class ConfigPage extends Component{
                                                     <Icon type="copy" theme="outlined" style={{marginLeft: '10px', fontSize:'15px'}} data-name={res.href} onClick={this.copyHref}/>
                                                 </div>
                                                 <div>
-                                                    <span className="install_href">{res.href}</span>
+                                                    <span className="install_href">{res.yarn_href}</span>
                                                     <Icon type="copy" theme="outlined" style={{marginLeft: '10px', fontSize:'15px'}} data-name={res.yarn_href} onClick={this.copyHref}/>
                                                 </div>
                                             </div>
@@ -150,7 +150,7 @@ class ConfigPage extends Component{
                                                     <Icon type="copy" theme="outlined" style={{marginLeft: '10px', fontSize:'15px'}} data-name={res.href} onClick={this.copyHref}/>
                                                 </div>
                                                 <div>
-                                                    <span className="install_href">{res.href}</span>
+                                                    <span className="install_href">{res.yarn_href}</span>
                                                     <Icon type="copy" theme="outlined" style={{marginLeft: '10px', fontSize:'15px'}} data-name={res.yarn_href} onClick={this.copyHref}/>
                                                 </div>
                                             </div>
