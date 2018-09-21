@@ -4,6 +4,8 @@ export default {
   getUserData: '/mock/userData.json',      // 获取appname panel面板数据
   getNavData: '/mock/navData.json',
   getUserList:'/mock/userList.json',
+  getVersionData: '/mock/versionData.json',
+  getHrefData: '/mock/hrefData.json',
 
   /*---------------------searchTable---------------------------*/
   getSearchTableData:'/mock/searchTableData.json',

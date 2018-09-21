@@ -1,0 +1,423 @@
+{
+    "data":[
+        {
+            "version_parent": "1.0",
+            "version_name": "1.0.1",
+            "platform":{
+                "linux":[
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb"
+                    }
+                ],
+                "mac":[
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.1_amd64.deb"
+                    }
+                ]
+            }
+        },
+        {
+            "version_parent": "1.0",
+            "version_name":"1.0.2",
+            "platform":{
+                "linux":[
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb"
+                    }
+                ],
+                "mac":[
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.2_amd64.deb"
+                    }
+                ]
+            }
+        },
+        {
+            "version_parent": "1.0",
+            "version_name":"1.0.3",
+            "platform":{
+                "linux":[
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb"
+                    }
+                ],
+                "mac":[
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.3_amd64.deb"
+                    }
+                ]
+            }
+        },
+        {
+            "version_parent": "1.0",
+            "version_name":"1.0.4",
+            "platform":{
+                "linux":[
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb"
+                    }
+                ],
+                "mac":[
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_1.0.4_amd64.deb"
+                    }
+                ]
+            }
+        },
+        {
+            "version_parent": "2.0",
+            "version_name":"2.0.1",
+            "platform":{
+                "linux":[
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb"
+                    }
+                ],
+                "mac":[
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.1_amd64.deb"
+                    }
+                ]
+            }
+        },{
+            "version_parent": "2.0",
+            "version_name":"2.0.2",
+            "platform":{
+                "linux":[
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Linux",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb"
+                    }
+                ],
+                "mac":[
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb"
+                    },
+                    {
+                        "title": "Ubuntu & Mac",
+                        "des": "SHA256: 329a9ed4008c4445af31a9fa38a6c8ec928c49c34d4bfd69499f4c41617fa09",
+                        "order_one": "npm install https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb",
+                        "order_two": "yarn add https://s3-us-west-2.amazonaws.com/grafana-releases/release/grafana_2.0.2_amd64.deb"
+                    }
+                ]
+            }
+        }
+    ]
+}
